@@ -1,4 +1,4 @@
-# SD Grupo 10
+# Distributed Systems
 
 Sistema distribuido para gestão de séries temporais com suporte a múltiplos clientes concorrentes.
 
